@@ -1,6 +1,8 @@
 # Python-Google-Searcher
 This tools uses python requests, bs4, sys and webbrowser. When a certain parameter is passed it will open first 5 links of the passed parameter in the default browser
 
+To change the no. of links you want to open, change the value
+
 How to use? <br />
 1.Open cmd <br />
 2.Open the directory where the tool is at <br />
